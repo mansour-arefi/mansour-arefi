@@ -66,7 +66,7 @@ Evaluated and compared local large language models for annotating clinical healt
 
 ---
 
-### 🔊 [Ultrasound Transducer Testing System](https://github.com/mansour-arefi/ultrasound-transducer-testing)
+### 🔊 [Ultrasound Transducer Testing System]([https://github.com/mansour-arefi/ultrasound-transducer-testing](https://github.com/mansour-arefi/RUS-for-Transducer-Testing.git))
 > *BSc thesis project · C# · .NET · WinForms · Signal Processing*
 
 Built a modular research desktop application for characterising ultrasound transducers. Implemented FFT-based frequency analysis pipelines on RF-data, delivering a tool used by faculty for ongoing experimental work.
