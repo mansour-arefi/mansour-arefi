@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mansour Arefi 👋</h1>
+<h1 align="center">Mansour Arefi </h1>
 
 <p align="center">
   <strong>MSc Data-Driven Health · KTH Royal Institute of Technology</strong><br>
