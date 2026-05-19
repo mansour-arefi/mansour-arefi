@@ -75,7 +75,7 @@ Built a modular research desktop application for characterising ultrasound trans
 
 ---
 
-### 📊 [Machine Learning for Health — Course Projects](https://github.com/mansour-arefi/ml-health-coursework)
+### 📊 [Data-driven Health — Projects](https://github.com/mansour-arefi/ml-datadriven-health-kth.git)
 > *MSc · Python · scikit-learn · KTH Data-Driven Health*
 
 Collection of ML projects from my MSc programme — covering supervised/unsupervised learning, feature engineering, cross-validation, and model evaluation on health-related datasets.
